@@ -19,7 +19,7 @@
   
   ## Usage
   
-    After installing dependencies (npm install), the user can create the database and then seed the database with the command 'node seeds/index.js'. After the database is seeded, the user can run the program with the command 'npm start'. They can then  navigate to their Insomnia app and use the GET, POST, PUT, and DELETE routes available there to interact with the database. They can create new categories, products, and tags, and they can read, edit, and delete entries from all three of these tables in the database.
+    After installing dependencies (npm install), the user can create the database and then seed the database with the command 'node seeds/index.js'. After the database is seeded, the user can run the program with the command 'npm start'. They can then  navigate to their Insomnia app and use the GET, POST, PUT, and DELETE routes available there to interact with the database. They can create new categories, products, and tags, and they can read, edit, and delete entries from all three of these tables in the database. Please note that the user must create a .env file using the provided .env.EXAMPLE file as a reference.
     
   ## Testing
 
